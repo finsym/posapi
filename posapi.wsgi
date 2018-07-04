@@ -1,0 +1,1 @@
+from posapi import app as application
